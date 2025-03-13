@@ -6,8 +6,7 @@
 ## *Detalles del proyecto final:*
 • Usar un conjunto de datos de mínimo 2000 registros.\
 • Desarrollar un análisis exploratorio de datos y preprocesamiento.\
-• Entrenamiento de una red neuronal.\
-• Crear un dashboard en Power BI para presentar la visualización de los resultados.
+• Entrenamiento de una red neuronal.
 
 ## *Objetivo:* 
 Desarrollar un análisis completo que permita extraer datos sobre los pacientes que presentan afectaciones de diabetes, utilizando herramientas de modelos machine learning y el algoritmo Kmeans, haciuendo uso de redes neuronales, para visualizar los resultados de manera efectiva.

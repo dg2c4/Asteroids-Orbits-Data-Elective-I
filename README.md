@@ -17,7 +17,7 @@
 • Entrenamiento de una red neuronal.
 
 ## *Objetivo:* 
-Desarrollar un análisis completo que permita extraer datos sobre los pacientes que presentan afectaciones de diabetes, utilizando herramientas de modelos machine learning y el algoritmo Kmeans, haciuendo uso de redes neuronales, para visualizar los resultados de manera efectiva.
+Realizar un análisis completo de un conjunto de datos de asteroides para identificar posibles riesgos de impacto con la Tierra, utilizando técnicas de análisis exploratorio, preprocesamiento y uso de redes neuronales.
 El trabajo se divide en tres componentes principales:
 
 ### *1. Análisis Exploratorio:*

@@ -13,7 +13,7 @@
 ## *Detalles del proyecto final:*
 • Usar un conjunto de datos de mínimo 2000 registros.\
 • Desarrollar un análisis exploratorio de datos y preprocesamiento.\
-• Entrenamiento de una red neuronal.
+• Entrenamiento de una red neuronal y modelo machine learning.
 
 ## *Objetivo:* 
 Realizar un análisis completo de un conjunto de datos de asteroides para identificar posibles riesgos de impacto con la Tierra, utilizando técnicas de análisis exploratorio, preprocesamiento y uso de redes neuronales.

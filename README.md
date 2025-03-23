@@ -4,10 +4,10 @@
 </p>
 
 ## Link video del avance realizado:
-    https://youtu.be/
+    https://www.youtube.com/watch?v=5tpeUpoG8dY
 
 <p align="center">
-  <video src="https://github.com/" width=400/>
+  <video src="https://github.com/dg2c4/Asteroids-Orbits-Data-Elective-I/blob/main/Assets/Presentaci%C3%B3n%20Avance_%20Proyecto%20final_%20Big%20Data.%20Electiva-I..mp4" width=400/>
 <p/>
 
 ## *Detalles del proyecto final:*

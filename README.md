@@ -3,12 +3,11 @@
   <img width="800" height="550" src="https://github.com/dg2c4/Asteroids-Orbits-Data/blob/main/Assets/Asteroids-Orbits-Dataset.webp" alt="Penguin-Species-Clasification-Illustration">
 </p>
 
-## Link del trabajo realizado:
+## Link video del avance realizado:
     https://youtu.be/
-    
 
 <p align="center">
-  <video src="" width=400/>
+  <video src="https://github.com/" width=400/>
 <p/>
 
 ## *Detalles del proyecto final:*
